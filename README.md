@@ -1,5 +1,5 @@
 # ml-projekts
 DZA labaratorijas darbu pielikumi
 
-# Viesnīcas rezervāciju prognozēšanas modelis
-# Mobilo telefonu cenu klases prognoze
+# Viesnīcas rezervāciju prognozēšana 
+# Mobilo telefonu cenu klases prognozēšana
