@@ -12,7 +12,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.compose import ColumnTransformer
 
 st.set_page_config(
-    page_title="Mobilo telefonu cenu klases prognoze",
+    page_title="Mobilo telefonu cenu klases prognozēšana",
     layout="centered"
 )
 
@@ -92,7 +92,7 @@ def load_mlflow_model():
 
 # --- Main Streamlit App Logic ---
 def main():
-    st.title("Mobilo telefonu cenu klases prognoze")
+    st.title("Mobilo telefonu cenu klases prognozēšana")
     
     st.subheader("1. Augšupielādējiet datni ar datiem")
     st.markdown("Augšupielādējiet datni ar datiem, kur sākuma rinda satur kolonnu sarakstu.")
