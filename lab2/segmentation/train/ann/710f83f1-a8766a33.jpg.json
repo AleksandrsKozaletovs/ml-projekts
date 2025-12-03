@@ -1,0 +1,820 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 10955100,
+            "tagId": 26739,
+            "name": "weather",
+            "value": "clear",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.713Z",
+            "updatedAt": "2023-11-24T20:53:45.713Z"
+        },
+        {
+            "id": 10955101,
+            "tagId": 26740,
+            "name": "scene",
+            "value": "city street",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.713Z",
+            "updatedAt": "2023-11-24T20:53:45.713Z"
+        },
+        {
+            "id": 10955102,
+            "tagId": 26741,
+            "name": "timeofday",
+            "value": "daytime",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.713Z",
+            "updatedAt": "2023-11-24T20:53:45.713Z"
+        }
+    ],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 90756019,
+            "classId": 6508804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.721Z",
+            "updatedAt": "2023-11-24T20:53:45.721Z",
+            "tags": [
+                {
+                    "id": 74925908,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.721Z",
+                    "updatedAt": "2023-11-24T20:53:45.721Z"
+                }
+            ],
+            "classTitle": "traffic sign",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        317
+                    ],
+                    [
+                        172,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756018,
+            "classId": 6508804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.721Z",
+            "updatedAt": "2023-11-24T20:53:45.721Z",
+            "tags": [
+                {
+                    "id": 74925907,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.721Z",
+                    "updatedAt": "2023-11-24T20:53:45.721Z"
+                }
+            ],
+            "classTitle": "traffic sign",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        319
+                    ],
+                    [
+                        364,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756017,
+            "classId": 6508804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.721Z",
+            "updatedAt": "2023-11-24T20:53:45.721Z",
+            "tags": [
+                {
+                    "id": 74925906,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.721Z",
+                    "updatedAt": "2023-11-24T20:53:45.721Z"
+                }
+            ],
+            "classTitle": "traffic sign",
+            "points": {
+                "exterior": [
+                    [
+                        778,
+                        305
+                    ],
+                    [
+                        796,
+                        327
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756016,
+            "classId": 6508806,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.721Z",
+            "updatedAt": "2023-11-24T20:53:45.721Z",
+            "tags": [
+                {
+                    "id": 74925905,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': True, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.721Z",
+                    "updatedAt": "2023-11-24T20:53:45.721Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        1157,
+                        278
+                    ],
+                    [
+                        1184,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756015,
+            "classId": 6508800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.720Z",
+            "updatedAt": "2023-11-24T20:53:45.720Z",
+            "tags": [
+                {
+                    "id": 74925904,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.720Z",
+                    "updatedAt": "2023-11-24T20:53:45.720Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        555,
+                        344
+                    ],
+                    [
+                        570,
+                        358
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756014,
+            "classId": 6508800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.720Z",
+            "updatedAt": "2023-11-24T20:53:45.720Z",
+            "tags": [
+                {
+                    "id": 74925903,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.720Z",
+                    "updatedAt": "2023-11-24T20:53:45.720Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        342
+                    ],
+                    [
+                        619,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756013,
+            "classId": 6508800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.720Z",
+            "updatedAt": "2023-11-24T20:53:45.720Z",
+            "tags": [
+                {
+                    "id": 74925902,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.720Z",
+                    "updatedAt": "2023-11-24T20:53:45.720Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        629,
+                        341
+                    ],
+                    [
+                        651,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756012,
+            "classId": 6508800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.720Z",
+            "updatedAt": "2023-11-24T20:53:45.720Z",
+            "tags": [
+                {
+                    "id": 74925901,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.719Z",
+                    "updatedAt": "2023-11-24T20:53:45.719Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        349
+                    ],
+                    [
+                        487,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756011,
+            "classId": 6508800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.719Z",
+            "updatedAt": "2023-11-24T20:53:45.719Z",
+            "tags": [
+                {
+                    "id": 74925900,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.719Z",
+                    "updatedAt": "2023-11-24T20:53:45.719Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        336
+                    ],
+                    [
+                        447,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756010,
+            "classId": 6508808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.719Z",
+            "updatedAt": "2023-11-24T20:53:45.719Z",
+            "tags": [
+                {
+                    "id": 74925899,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': True, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.718Z",
+                    "updatedAt": "2023-11-24T20:53:45.718Z"
+                }
+            ],
+            "classTitle": "rider",
+            "points": {
+                "exterior": [
+                    [
+                        716,
+                        336
+                    ],
+                    [
+                        729,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756009,
+            "classId": 6508809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.718Z",
+            "updatedAt": "2023-11-24T20:53:45.718Z",
+            "tags": [
+                {
+                    "id": 74925898,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': True, 'truncated': False, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.718Z",
+                    "updatedAt": "2023-11-24T20:53:45.718Z"
+                }
+            ],
+            "classTitle": "bike",
+            "points": {
+                "exterior": [
+                    [
+                        717,
+                        348
+                    ],
+                    [
+                        729,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756008,
+            "classId": 6508800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.718Z",
+            "updatedAt": "2023-11-24T20:53:45.718Z",
+            "tags": [
+                {
+                    "id": 74925897,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'occluded': False, 'truncated': True, 'trafficLightColor': 'none'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.717Z",
+                    "updatedAt": "2023-11-24T20:53:45.717Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        371
+                    ],
+                    [
+                        116,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756007,
+            "classId": 6508802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.717Z",
+            "updatedAt": "2023-11-24T20:53:45.717Z",
+            "tags": [
+                {
+                    "id": 74925896,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'areaType': 'direct'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.717Z",
+                    "updatedAt": "2023-11-24T20:53:45.717Z"
+                }
+            ],
+            "classTitle": "drivable area",
+            "points": {
+                "exterior": [
+                    [
+                        604,
+                        369
+                    ],
+                    [
+                        655,
+                        367
+                    ],
+                    [
+                        837,
+                        600
+                    ],
+                    [
+                        668,
+                        592
+                    ],
+                    [
+                        451,
+                        599
+                    ],
+                    [
+                        236,
+                        620
+                    ],
+                    [
+                        412,
+                        499
+                    ],
+                    [
+                        486,
+                        437
+                    ],
+                    [
+                        604,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756006,
+            "classId": 6508802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.717Z",
+            "updatedAt": "2023-11-24T20:53:45.717Z",
+            "tags": [
+                {
+                    "id": 74925895,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'areaType': 'alternative'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.716Z",
+                    "updatedAt": "2023-11-24T20:53:45.716Z"
+                }
+            ],
+            "classTitle": "drivable area",
+            "points": {
+                "exterior": [
+                    [
+                        740,
+                        373
+                    ],
+                    [
+                        674,
+                        380
+                    ],
+                    [
+                        662,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756005,
+            "classId": 6508802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.716Z",
+            "updatedAt": "2023-11-24T20:53:45.716Z",
+            "tags": [
+                {
+                    "id": 74925894,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'areaType': 'alternative'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.716Z",
+                    "updatedAt": "2023-11-24T20:53:45.716Z"
+                }
+            ],
+            "classTitle": "drivable area",
+            "points": {
+                "exterior": [
+                    [
+                        992,
+                        484
+                    ],
+                    [
+                        1279,
+                        573
+                    ],
+                    [
+                        1279,
+                        658
+                    ],
+                    [
+                        1153,
+                        629
+                    ],
+                    [
+                        1033,
+                        604
+                    ],
+                    [
+                        866,
+                        600
+                    ],
+                    [
+                        686,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756004,
+            "classId": 6508803,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.716Z",
+            "updatedAt": "2023-11-24T20:53:45.716Z",
+            "tags": [
+                {
+                    "id": 74925893,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'laneDirection': 'parallel', 'laneStyle': 'solid', 'laneType': 'single white'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.716Z",
+                    "updatedAt": "2023-11-24T20:53:45.716Z"
+                }
+            ],
+            "classTitle": "lane",
+            "points": {
+                "exterior": [
+                    [
+                        689,
+                        399
+                    ],
+                    [
+                        869,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756003,
+            "classId": 6508803,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.715Z",
+            "updatedAt": "2023-11-24T20:53:45.715Z",
+            "tags": [
+                {
+                    "id": 74925892,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'laneDirection': 'parallel', 'laneStyle': 'solid', 'laneType': 'single white'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.715Z",
+                    "updatedAt": "2023-11-24T20:53:45.715Z"
+                }
+            ],
+            "classTitle": "lane",
+            "points": {
+                "exterior": [
+                    [
+                        680,
+                        403
+                    ],
+                    [
+                        838,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756002,
+            "classId": 6508803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.715Z",
+            "updatedAt": "2023-11-24T20:53:45.715Z",
+            "tags": [
+                {
+                    "id": 74925891,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'laneDirection': 'parallel', 'laneStyle': 'solid', 'laneType': 'double yellow'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.715Z",
+                    "updatedAt": "2023-11-24T20:53:45.715Z"
+                }
+            ],
+            "classTitle": "lane",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        377
+                    ],
+                    [
+                        476,
+                        445
+                    ],
+                    [
+                        370,
+                        519
+                    ],
+                    [
+                        236,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756001,
+            "classId": 6508803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.715Z",
+            "updatedAt": "2023-11-24T20:53:45.715Z",
+            "tags": [
+                {
+                    "id": 74925890,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'laneDirection': 'parallel', 'laneStyle': 'solid', 'laneType': 'double yellow'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.715Z",
+                    "updatedAt": "2023-11-24T20:53:45.715Z"
+                }
+            ],
+            "classTitle": "lane",
+            "points": {
+                "exterior": [
+                    [
+                        565,
+                        376
+                    ],
+                    [
+                        448,
+                        445
+                    ],
+                    [
+                        304,
+                        532
+                    ],
+                    [
+                        152,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90756000,
+            "classId": 6508803,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.714Z",
+            "updatedAt": "2023-11-24T20:53:45.714Z",
+            "tags": [
+                {
+                    "id": 74925889,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'laneDirection': 'parallel', 'laneStyle': 'solid', 'laneType': 'single white'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.714Z",
+                    "updatedAt": "2023-11-24T20:53:45.714Z"
+                }
+            ],
+            "classTitle": "lane",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        406
+                    ],
+                    [
+                        113,
+                        464
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 90755999,
+            "classId": 6508803,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-11-24T20:53:45.714Z",
+            "updatedAt": "2023-11-24T20:53:45.714Z",
+            "tags": [
+                {
+                    "id": 74925888,
+                    "tagId": 26742,
+                    "name": "attributes",
+                    "value": "{'laneDirection': 'parallel', 'laneStyle': 'solid', 'laneType': 'single white'}",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-11-24T20:53:45.714Z",
+                    "updatedAt": "2023-11-24T20:53:45.714Z"
+                }
+            ],
+            "classTitle": "lane",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        403
+                    ],
+                    [
+                        112,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
