@@ -1,5 +1,4 @@
-# ml-projekts
-DZA labaratorijas darbu pielikumi
+# DZA labaratorijas darbu pielikumi
 
 [Viesnīcas rezervāciju prognozēšana](https://github.com/AleksandrsKozaletovs/ml-projekts/tree/main/lab1)
 
